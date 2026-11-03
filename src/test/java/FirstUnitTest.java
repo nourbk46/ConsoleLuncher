@@ -4,6 +4,6 @@
    public class FirstUnitTest {
        @Test
        void additionTest() {
-           assertEquals(5, 2 + 2);
+           assertEquals(4, 2 + 2);
        }
    }
